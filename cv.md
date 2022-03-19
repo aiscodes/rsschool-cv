@@ -23,15 +23,18 @@
 
 * HTML
 * CSS
-* SASS, SCSS
 * JavaScript
 * TypeScript
 * React
-* Redux
+* Redux Thunk
+* Redux Saga
 * React Native 
 * Expo cli
 * Git
 * Postman
+* GraphQL
+* REST API
+* Firebase
 
 ---
 
@@ -40,6 +43,7 @@
 
 * ITC Bootcamp
 * RS School stage#0
+* RS School stage#1
 
 ---
 
